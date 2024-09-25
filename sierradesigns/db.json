@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "title": "Night Cap 20°",
+      "url": "https://sierradesigns.com/flex-capacitor-40-60/",
+      "image": "https://cdn11.bigcommerce.com/s-2nze2/products/2519/images/14969/Flex_Capacitor_40L-60L_-_S_M_With_S_M_WB_Bttrsctch_Butterscotch_80710223BUS-S_M_36__54038__24636.1677264566.1280.1280.jpg?c=2",
+      "price": "$179.95",
+      "status": "Sold out",
+      "id": "24d7"
+    },
+    {
+      "title": "Flex Capacitor 40-60",
+      "url": "https://sierradesigns.com/flex-capacitor-40-60/",
+      "image": "https://cdn11.bigcommerce.com/s-2nze2/products/2521/images/14942/Flex_Hike_20L-30L_Peat_Fiery_Red_Peat_Fiery_Red_80711823PT_27__97293.1677271949.1280.1280.jpg?c=2&_gl=1*by5xea*_ga*MTA5MzQ0NTQxNC4xNjYyNzM5OTIx*_ga_WS2VZYPC6G*MTY3OTQ4NjQ4Ni4yMzQuMS4xNjc5NDkzODUyLjQwLjAuMA..",
+      "price": "$189.95",
+      "status": "Sold out",
+      "id": "d4cc"
+    },
+    {
+      "title": "Flex Capacitor 40-60",
+      "url": "https://sierradesigns.com/flex-capacitor-40-60/",
+      "image": "https://cdn11.bigcommerce.com/s-2nze2/products/2515/images/14770/Grotto_20L_Cooler_Pack_Peat_Wild_Dove_20433523_21__05875.1675790006.1280.1280.jpg?c=2&_gl=1*p3vnzf*_ga*MTA5MzQ0NTQxNC4xNjYyNzM5OTIx*_ga_WS2VZYPC6G*MTY3OTQ4NjQ4Ni4yMzQuMS4xNjc5NDkzOTk2LjM4LjAuMA..",
+      "price": "$189.95",
+      "status": "Sold out",
+      "id": "24d7"
+    }
+    
+  ],
+  "cart": [],
+  "Gear":[
+    {
+      "title":"Night Cap 20°",
+      "url": "https://sierradesigns.com/flex-capacitor-40-60/",
+      "image":"https://cdn11.bigcommerce.com/s-k4vqoje/images/stencil/1280x1280/products/4657/14661/77610821R_MAIN_NightCapSynthetic20_print__91116.1643146816.jpg?c=2",
+       "price": "$189.95"
+    },
+    {
+      "title":"Tabernash 2",
+      "url": "https://sierradesigns.com/flex-capacitor-40-60/",
+      "image":"https://cdn11.bigcommerce.com/s-k4vqoje/images/stencil/1280x1280/products/4654/14249/40157621_Main_Tabernash2_Print__44326.1642794870.jpg?c=2",
+       "price": "$189.95"
+    }
+
+  ]
+}
